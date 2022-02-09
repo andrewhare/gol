@@ -1,6 +1,6 @@
 # gol
 
-A Game of Life simulator.
+A Game of Life simulator. The only dependency is `github.com/pterm/pterm` which is used to draw the board.
 
 ### Instructions
 
@@ -24,3 +24,4 @@ Usage of /var/folders/hw/c45n61nx7sncm735hxv2rgtm0000gp/T/go-build3791553864/b00
   -pattern string
     	initial pattern on the board (default "glider")
 ```
+
